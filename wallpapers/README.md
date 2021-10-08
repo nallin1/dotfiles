@@ -1,7 +1,7 @@
 # How I find my wallpapers ?
 
 - [Wallhaven](https://www.wallhaven.cc)
-- [WallpapersCraft](www.wallpaperscraft.com)
-- [r/wallpapers](www.reddit.com/r/wallpapers)
-- [r/unixporn](www.reddit.com/r/unixporn)
-- [Nasa Archive](www.apod.nasa.gov)
+- [WallpapersCraft](https://www.wallpaperscraft.com)
+- [r/wallpapers](https://www.reddit.com/r/wallpapers)
+- [r/unixporn](https://www.reddit.com/r/unixporn)
+- [Nasa Archive](https:://www.apod.nasa.gov)
